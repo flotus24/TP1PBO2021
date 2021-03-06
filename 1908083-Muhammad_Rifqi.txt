@@ -1,0 +1,20 @@
+Saya Muhammad Rifqi mengerjakan evaluasi TP1 dalam mata kuliah DPBO untuk
+keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah
+dispesifikasikan. Aamiin.
+
+Fitur yang sudah dikerjakan :
+-Log in dimana usernamenya bebas dan passnya : pbo123.
+ Jika textboxt username kosong, maka keluar warning message.
+ Jika textboxt password salah, maka keluar warning message.
+-Button home kembali ke panel home
+-Button logout yang mengembalikan kembali ke panel login
+
+Fitur yang belum dikerjakan :
+-Bar Pencarian
+-Panel detail barang
+-Katalog Barang
+
+Kesulitan :
+-Tidak dapat membuat panel detail. 
+ Teknik yang digunakan meniban panel tetapi tidak bekerja.
+ Karena ini, pembuatan fitur lain terhambat.
